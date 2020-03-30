@@ -117,4 +117,6 @@ p{
   }
   .videowrapper iframe {
     position: absolute;
+    width: 480px;
+    height: 270px;
   }
