@@ -73,7 +73,7 @@ body{
 }
 .container-fluid{
   height: 900px;
-  background-color: black;
+  background-color: rgb(43, 40, 40);
   color: white;
   padding-top:150px;padding-bottom:70px
 }
